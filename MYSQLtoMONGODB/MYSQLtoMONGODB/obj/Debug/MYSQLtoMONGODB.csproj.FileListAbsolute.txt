@@ -1,0 +1,14 @@
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MYSQLtoMONGODB.exe.config
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\obj\Debug\MYSQLtoMONGODB.csprojResolveAssemblyReference.cache
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MYSQLtoMONGODB.exe
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MYSQLtoMONGODB.pdb
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MongoDB.Bson.dll
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MongoDB.Driver.Core.dll
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MongoDB.Driver.dll
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MySql.Data.dll
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MongoDB.Bson.xml
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MongoDB.Driver.xml
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\bin\Debug\MongoDB.Driver.Core.xml
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\obj\Debug\MYSQLtoMONGODB.exe
+D:\Parth_Work\Example\MYSQLtoMONGODB\MYSQLtoMONGODB\obj\Debug\MYSQLtoMONGODB.pdb
